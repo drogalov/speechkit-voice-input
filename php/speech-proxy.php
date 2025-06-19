@@ -3,6 +3,7 @@
 $apiKey = 'ваш_api_key';
 $folderId = 'ваш_folder_id';
 
+
 // Временный файл webm
 $tmpInput = tempnam(sys_get_temp_dir(), 'webm_') . '.webm';
 $tmpOutput = tempnam(sys_get_temp_dir(), 'ogg_') . '.ogg';
